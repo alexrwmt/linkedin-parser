@@ -1,0 +1,35 @@
+2024-12-14 20:47:15,711 - INFO - Запуск парсера
+2024-12-14 20:47:15,711 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 20:47:15,711 - INFO - Настройка веб-драйвера...
+2024-12-14 20:47:15,711 - INFO - ====== WebDriver manager ======
+2024-12-14 20:47:15,935 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:47:16,107 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:47:16,268 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 20:47:16,268 - INFO - Веб-драйвер успешно настроен
+2024-12-14 20:47:17,687 - INFO - Попытка входа в LinkedIn...
+2024-12-14 20:47:23,331 - INFO - Успешный вход в систему
+2024-12-14 20:47:23,332 - INFO - Начало поиска вакансий для запроса: laravel developer
+2024-12-14 20:47:23,626 - INFO - Открыта страница поиска: https://www.linkedin.com/jobs/search/?keywords=laravel%20developer
+2024-12-14 20:47:34,015 - ERROR - Ошибка при получении списка вакансий: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001046a3af0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x000000010469c340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x00000001041044b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000104148898 cxxbridge1$string$len + 368748
+4   chromedriver                        0x00000001041820fc cxxbridge1$string$len + 604368
+5   chromedriver                        0x000000010413d0b0 cxxbridge1$string$len + 321668
+6   chromedriver                        0x000000010413dd00 cxxbridge1$string$len + 324820
+7   chromedriver                        0x000000010466ee34 cxxbridge1$str$ptr + 3435328
+8   chromedriver                        0x000000010467214c cxxbridge1$str$ptr + 3448408
+9   chromedriver                        0x00000001046561a8 cxxbridge1$str$ptr + 3333812
+10  chromedriver                        0x0000000104672a0c cxxbridge1$str$ptr + 3450648
+11  chromedriver                        0x00000001046479b4 cxxbridge1$str$ptr + 3274432
+12  chromedriver                        0x000000010468d120 cxxbridge1$str$ptr + 3558956
+13  chromedriver                        0x000000010468d29c cxxbridge1$str$ptr + 3559336
+14  chromedriver                        0x000000010469bfb4 cxxbridge1$str$ptr + 3620032
+15  libsystem_pthread.dylib             0x0000000189316f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000189311d34 thread_start + 8
+
+2024-12-14 20:47:34,016 - INFO - Всего успешно обработано вакансий: 0
+2024-12-14 20:47:34,016 - INFO - Закрытие браузера
+2024-12-14 20:47:34,175 - INFO - Работа парсера завершена
