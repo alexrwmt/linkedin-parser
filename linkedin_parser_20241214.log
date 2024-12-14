@@ -33,3 +33,217 @@ Stacktrace:
 2024-12-14 20:47:34,016 - INFO - Всего успешно обработано вакансий: 0
 2024-12-14 20:47:34,016 - INFO - Закрытие браузера
 2024-12-14 20:47:34,175 - INFO - Работа парсера завершена
+2024-12-14 20:49:25,153 - INFO - Запуск парсера
+2024-12-14 20:49:25,154 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 20:49:25,154 - INFO - Настройка веб-драйвера...
+2024-12-14 20:49:25,154 - INFO - ====== WebDriver manager ======
+2024-12-14 20:49:25,570 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:49:25,758 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:49:25,976 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 20:49:27,405 - INFO - Веб-драйвер успешно настроен
+2024-12-14 20:49:27,407 - INFO - Попытка входа в LinkedIn...
+2024-12-14 20:49:33,325 - INFO - Успешный вход в систему
+2024-12-14 20:49:33,325 - INFO - Начало поиска вакансий для запроса: laravel developer
+2024-12-14 20:49:34,633 - INFO - Открыта страница поиска: https://www.linkedin.com/jobs/search/?keywords=laravel%20developer
+2024-12-14 20:49:41,791 - INFO - Найден список вакансий по селектору: jobs-search__results-list
+2024-12-14 20:49:51,821 - INFO - Найдено карточек с вакансиями: 0
+2024-12-14 20:49:51,822 - INFO - Всего успешно обработано вакансий: 0
+2024-12-14 20:49:51,822 - INFO - Закрытие браузера
+2024-12-14 20:49:52,052 - INFO - Работа парсера завершена
+2024-12-14 20:51:39,839 - INFO - Запуск парсера
+2024-12-14 20:51:39,839 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 20:51:39,839 - INFO - Настройка веб-драйвера...
+2024-12-14 20:51:39,839 - INFO - ====== WebDriver manager ======
+2024-12-14 20:51:40,114 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:51:40,309 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:51:40,532 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 20:51:41,879 - INFO - Веб-драйвер успешно настроен
+2024-12-14 20:51:41,884 - INFO - Попытка входа в LinkedIn...
+2024-12-14 20:51:48,303 - INFO - Успешный вход в систему
+2024-12-14 20:51:48,304 - INFO - Начало поиска вакансий для запроса: laravel developer
+2024-12-14 20:51:48,903 - INFO - Открыта страница поиска: https://www.linkedin.com/jobs/search/?keywords=laravel%20developer
+2024-12-14 20:52:26,052 - ERROR - Не удалось найти список вакансий
+2024-12-14 20:52:26,053 - INFO - Закрытие браузера
+2024-12-14 20:52:26,551 - INFO - Работа парсера завершена
+2024-12-14 20:53:44,682 - INFO - Запуск парсера
+2024-12-14 20:53:44,682 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 20:53:44,682 - INFO - Настройка веб-драйвера...
+2024-12-14 20:53:44,682 - INFO - ====== WebDriver manager ======
+2024-12-14 20:53:44,893 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:53:46,086 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:53:46,292 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 20:53:47,719 - INFO - Веб-драйвер успешно настроен
+2024-12-14 20:53:47,721 - INFO - Попытка входа в LinkedIn...
+2024-12-14 20:53:54,416 - INFO - Успешный вход в систему
+2024-12-14 20:53:54,419 - INFO - Начало поиска вакансий для запроса: laravel developer
+2024-12-14 20:53:55,599 - INFO - [TIMING] Загрузка страницы заняла 1.18 секунд
+2024-12-14 20:53:55,599 - INFO - Открыта страница поиска: https://www.linkedin.com/jobs/search/?keywords=laravel%20developer
+2024-12-14 20:53:55,599 - INFO - Ожидание 5 секунд для начальной загрузки...
+2024-12-14 20:54:00,604 - INFO - [TIMING] После начального ожидания: 15.92 секунд с начала работы
+2024-12-14 20:54:00,615 - INFO - [TIMING] Скролл страницы занял 0.01 секунд
+2024-12-14 20:54:00,615 - INFO - Ожидание 2 секунды после скролла...
+2024-12-14 20:54:02,620 - INFO - [TIMING] После скролла: 17.94 секунд с начала работы
+2024-12-14 20:54:02,621 - INFO - Попытка найти элементы по селектору: jobs-search__results-list
+2024-12-14 20:54:02,636 - INFO - [TIMING] Поиск по селектору jobs-search__results-list занял 0.02 секунд
+2024-12-14 20:54:02,637 - INFO - Успешно найден список вакансий по селектору: jobs-search__results-list
+2024-12-14 20:54:12,642 - INFO - [TIMING] Поиск карточек вакансий занял 10.01 секунд
+2024-12-14 20:54:12,643 - INFO - Найдено карточек с вакансиями: 0
+2024-12-14 20:54:12,643 - INFO - [TIMING] Общее время выполнения: 27.96 секунд
+2024-12-14 20:54:12,643 - INFO - Всего успешно обработано вакансий: 0
+2024-12-14 20:54:12,643 - INFO - Функция get_jobs выполнилась за 18.22 секунд
+2024-12-14 20:54:12,643 - INFO - Закрытие браузера
+2024-12-14 20:54:12,851 - INFO - Работа парсера завершена
+2024-12-14 20:55:20,673 - INFO - Запуск парсера
+2024-12-14 20:55:20,673 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 20:55:20,673 - INFO - Настройка веб-драйвера...
+2024-12-14 20:55:20,673 - INFO - ====== WebDriver manager ======
+2024-12-14 20:55:20,895 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:55:21,078 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:55:21,275 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 20:55:22,681 - INFO - Веб-драйвер успешно настроен
+2024-12-14 20:55:22,684 - INFO - Попытка входа в LinkedIn...
+2024-12-14 20:55:23,477 - INFO - Выполняем стандартную авторизацию...
+2024-12-14 20:55:39,632 - ERROR - Не удалось войти в систему
+2024-12-14 20:55:39,633 - ERROR - Ошибка при входе: Login failed
+2024-12-14 20:55:39,633 - ERROR - Критическая ошибка в работе парсера: Login failed
+2024-12-14 20:55:39,633 - INFO - Закрытие браузера
+2024-12-14 20:55:39,756 - INFO - Работа парсера завершена
+2024-12-14 20:56:06,882 - INFO - Запуск парсера
+2024-12-14 20:56:06,883 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 20:56:06,883 - INFO - Настройка веб-драйвера...
+2024-12-14 20:56:06,883 - INFO - ====== WebDriver manager ======
+2024-12-14 20:56:07,105 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:56:07,278 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:56:07,428 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 20:56:08,664 - INFO - Веб-драйвер успешно настроен
+2024-12-14 20:56:08,665 - INFO - Попытка входа в LinkedIn...
+2024-12-14 20:56:09,616 - INFO - Выполняем стандартную авторизацию...
+2024-12-14 20:56:24,850 - ERROR - Не удалось войти в систему
+2024-12-14 20:56:24,851 - ERROR - Ошибка при входе: Login failed
+2024-12-14 20:56:24,851 - ERROR - Критическая ошибка в работе парсера: Login failed
+2024-12-14 20:56:24,851 - INFO - Закрытие браузера
+2024-12-14 20:56:25,055 - INFO - Работа парсера завершена
+2024-12-14 20:58:48,589 - INFO - Запуск парсера
+2024-12-14 20:58:48,590 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 20:58:48,590 - INFO - Создана папка для текущего запуска: parser_runs/20241214_205848
+2024-12-14 20:58:48,590 - INFO - Настройка веб-драйвера...
+2024-12-14 20:58:48,590 - INFO - ====== WebDriver manager ======
+2024-12-14 20:58:48,821 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:58:49,029 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 20:58:49,200 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 20:58:50,690 - INFO - Веб-драйвер успешно настроен
+2024-12-14 20:58:50,691 - INFO - Попытка входа в LinkedIn...
+2024-12-14 20:58:52,319 - INFO - Сохранен скриншот: 205852_initial_page.png
+2024-12-14 20:58:55,325 - INFO - Выполняем стандартную авторизацию...
+2024-12-14 20:58:55,908 - INFO - Сохранен скриншот: 205855_login_page.png
+2024-12-14 20:58:59,065 - INFO - Сохранен скриншот: 205858_login_form_found.png
+2024-12-14 20:59:01,477 - INFO - Сохранен скриншот: 205901_email_entered.png
+2024-12-14 20:59:06,057 - INFO - Сохранен скриншот: 205905_password_entered.png
+2024-12-14 20:59:08,483 - INFO - Сохранен скриншот: 205908_submit_clicked.png
+2024-12-14 20:59:13,606 - INFO - Сохранен скриншот: 205913_after_submit_wait.png
+2024-12-14 20:59:35,532 - INFO - Закрытие браузера
+2024-12-14 20:59:35,537 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102362b90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/811f0f920b9225644e4fe134c38a59a7
+2024-12-14 20:59:35,538 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1023631d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/811f0f920b9225644e4fe134c38a59a7
+2024-12-14 20:59:35,539 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102363810>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/811f0f920b9225644e4fe134c38a59a7
+2024-12-14 20:59:35,545 - INFO - Работа парсера завершена
+2024-12-14 23:07:23,041 - INFO - Запуск парсера
+2024-12-14 23:07:23,042 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 23:07:23,042 - INFO - Создана папка для текущего запуска: parser_runs/20241214_230723
+2024-12-14 23:07:23,042 - INFO - Настройка веб-драйвера...
+2024-12-14 23:07:23,042 - INFO - ====== WebDriver manager ======
+2024-12-14 23:07:23,324 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:07:23,515 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:07:23,686 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 23:07:25,702 - INFO - Веб-драйвер успешно настроен
+2024-12-14 23:07:25,707 - INFO - Попытка входа в LinkedIn...
+2024-12-14 23:07:26,898 - INFO - Сохранен скриншот: 230726_initial_page.png
+2024-12-14 23:07:29,902 - INFO - Выполняем стандартную авторизацию...
+2024-12-14 23:07:30,514 - INFO - Сохранен скриншот: 230730_login_page.png
+2024-12-14 23:07:33,619 - INFO - Сохранен скриншот: 230733_login_form_found.png
+2024-12-14 23:07:36,075 - INFO - Сохранен скриншот: 230735_email_entered.png
+2024-12-14 23:07:40,650 - INFO - Сохранен скриншот: 230740_password_entered.png
+2024-12-14 23:07:43,096 - INFO - Сохранен скриншот: 230742_submit_clicked.png
+2024-12-14 23:07:48,223 - INFO - Сохранен скриншот: 230748_after_submit_wait.png
+2024-12-14 23:08:00,384 - INFO - Закрытие браузера
+2024-12-14 23:08:00,388 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1044f2590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/37edfa2997d548bd5f106171e8e9d8dc
+2024-12-14 23:08:00,391 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1044f2e50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/37edfa2997d548bd5f106171e8e9d8dc
+2024-12-14 23:08:00,414 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1044f3990>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/37edfa2997d548bd5f106171e8e9d8dc
+2024-12-14 23:08:00,430 - INFO - Работа парсера завершена
+2024-12-14 23:09:14,472 - INFO - Запуск парсера
+2024-12-14 23:09:14,473 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 23:09:14,473 - INFO - Создана папка для текущего запуска: parser_runs/20241214_230914
+2024-12-14 23:09:14,473 - INFO - Настройка веб-драйвера...
+2024-12-14 23:09:14,473 - INFO - ====== WebDriver manager ======
+2024-12-14 23:09:14,715 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:09:14,887 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:09:15,068 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 23:09:16,584 - INFO - Веб-драйвер успешно настроен
+2024-12-14 23:09:16,585 - INFO - Попытка входа в LinkedIn...
+2024-12-14 23:09:18,131 - INFO - Сохранен скриншот: 230917_initial_page.png
+2024-12-14 23:09:21,133 - INFO - Выполняем стандартную авторизацию...
+2024-12-14 23:09:21,820 - INFO - Сохранен скриншот: 230921_login_page.png
+2024-12-14 23:09:24,954 - INFO - Сохранен скриншот: 230924_login_form_found.png
+2024-12-14 23:09:27,478 - INFO - Сохранен скриншот: 230927_email_entered.png
+2024-12-14 23:09:32,440 - INFO - Сохранен скриншот: 230932_password_entered.png
+2024-12-14 23:09:35,143 - INFO - Сохранен скриншот: 230934_submit_clicked.png
+2024-12-14 23:09:40,265 - INFO - Сохранен скриншот: 230940_after_submit_wait.png
+2024-12-14 23:10:12,495 - INFO - Сохранен скриншот: 231012_login_attempt_1.png
+2024-12-14 23:10:44,714 - INFO - Сохранен скриншот: 231044_login_attempt_2.png
+2024-12-14 23:10:59,813 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102bfcc10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1b805be2128de0b6414f42867b3bd349/element
+2024-12-14 23:10:59,816 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102bfdf90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1b805be2128de0b6414f42867b3bd349/element
+2024-12-14 23:10:59,825 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102bff090>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1b805be2128de0b6414f42867b3bd349/element
+2024-12-14 23:10:59,928 - INFO - Закрытие браузера
+2024-12-14 23:10:59,954 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b20e10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1b805be2128de0b6414f42867b3bd349
+2024-12-14 23:10:59,960 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b22790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1b805be2128de0b6414f42867b3bd349
+2024-12-14 23:10:59,965 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b20610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1b805be2128de0b6414f42867b3bd349
+2024-12-14 23:11:00,017 - INFO - Работа парсера завершена
+2024-12-14 23:13:56,376 - INFO - Запуск парсера
+2024-12-14 23:13:56,376 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 23:13:56,377 - INFO - Создана папка для текущего запуска: parser_runs/20241214_231356
+2024-12-14 23:13:56,377 - INFO - Настройка веб-драйвера...
+2024-12-14 23:13:56,377 - INFO - ====== WebDriver manager ======
+2024-12-14 23:13:56,600 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:13:56,761 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:13:56,939 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 23:13:58,447 - INFO - Веб-драйвер успешно настроен
+2024-12-14 23:13:58,448 - INFO - Попытка входа в LinkedIn...
+2024-12-14 23:13:59,487 - INFO - Сохранен скриншот: 231359_initial_page.png
+2024-12-14 23:14:02,492 - INFO - Выполняем стандартную авторизацию...
+2024-12-14 23:14:03,168 - INFO - Сохранен скриншот: 231402_login_page.png
+2024-12-14 23:14:06,290 - INFO - Сохранен скриншот: 231406_login_form_found.png
+2024-12-14 23:14:08,805 - INFO - Сохранен скриншот: 231408_email_entered.png
+2024-12-14 23:14:13,478 - INFO - Сохранен скриншот: 231413_password_entered.png
+2024-12-14 23:14:15,704 - INFO - Сохранен скриншот: 231415_submit_clicked.png
+2024-12-14 23:14:20,848 - INFO - Сохранен скриншот: 231420_after_submit_wait.png
+2024-12-14 23:14:53,095 - INFO - Сохранен скриншот: 231452_login_attempt_1.png
+2024-12-14 23:15:25,301 - INFO - Сохранен скриншот: 231525_login_attempt_2.png
+2024-12-14 23:15:57,565 - INFO - Сохранен скриншот: 231557_login_attempt_3.png
+2024-12-14 23:15:57,566 - ERROR - Не удалось войти в систему после нескольких попыток
+2024-12-14 23:15:57,648 - INFO - Сохранен скриншот: 231557_login_failed_final.png
+2024-12-14 23:15:57,648 - ERROR - Ошибка при входе: Login failed
+2024-12-14 23:15:57,731 - INFO - Сохранен скриншот: 231557_login_critical_error.png
+2024-12-14 23:15:57,731 - ERROR - Критическая ошибка в работе парсера: Login failed
+2024-12-14 23:15:57,731 - INFO - Закрытие браузера
+2024-12-14 23:15:57,911 - INFO - Работа парсера завершена
+2024-12-14 23:19:07,375 - INFO - Запуск парсера
+2024-12-14 23:19:07,376 - INFO - Инициализация парсера для запроса: laravel developer
+2024-12-14 23:19:07,376 - INFO - Создана папка для текущего запуска: parser_runs/20241214_231907
+2024-12-14 23:19:07,376 - INFO - Настройка веб-драйвера...
+2024-12-14 23:19:07,376 - INFO - ====== WebDriver manager ======
+2024-12-14 23:19:07,613 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:19:07,777 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-14 23:19:07,942 - INFO - Driver [/Users/user/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-14 23:19:09,661 - INFO - Веб-драйвер успешно настроен
+2024-12-14 23:19:09,664 - INFO - Попытка входа в LinkedIn...
+2024-12-14 23:19:09,664 - INFO - Установка сохраненных cookies...
+2024-12-14 23:19:12,705 - INFO - Добавлен cookie: li_at
+2024-12-14 23:19:12,708 - INFO - Добавлен cookie: JSESSIONID
+2024-12-14 23:19:21,327 - INFO - Сохранен скриншот: 231921_after_cookies_set.png
+2024-12-14 23:19:21,334 - INFO - Найден элемент авторизации: .global-nav__me-photo
+2024-12-14 23:19:21,334 - INFO - Успешная авторизация через cookies
+2024-12-14 23:19:21,334 - INFO - Начало поиска вакансий для запроса: laravel developer
+2024-12-14 23:19:23,210 - INFO - Сохранен скриншот: 231922_search_page_initial.png
+2024-12-14 23:19:28,350 - INFO - Сохранен скриншот: 231928_after_scroll.png
+2024-12-14 23:19:30,357 - INFO - Функция get_jobs выполнилась за 9.02 секунд
+2024-12-14 23:19:30,357 - INFO - Закрытие браузера
+2024-12-14 23:19:30,529 - INFO - Работа парсера завершена
